@@ -1,19 +1,20 @@
 /* FrameForge — beginner portfolio practice project
    Edit these variables to change the site's colors and style. */
+
 :root {
   --bg: #0b0c12;
-  --panel: #11131d;
-  --panel-light: #171a27;
+  --panel: #171116;
+  --panel-light: #251116;
   --text: #f5f4fb;
   --muted: #a3a5b8;
 
-  /* Electric purple color theme */
-  --purple: #A78BFA;
-  --purple-bright: #8B5CF6;
+  --purple: #E63946;
+  --purple-bright: #FF6B6B;
 
   --line: rgba(255,255,255,.12);
   --max-width: 1120px;
 }
+
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
